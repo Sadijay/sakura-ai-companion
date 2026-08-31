@@ -26,6 +26,9 @@ controlling desktop applications.
 - Ollama
 - Vite
 
+## 📸 Screenshots
+
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/a40e51d6-6f16-4704-9c88-472556fa1db9" />
 
 ## 🚀 Installation
 
