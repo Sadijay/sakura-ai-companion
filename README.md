@@ -1,4 +1,4 @@
-#  Sakura - AI Desktop Companion
+#  Sakura - asdsdwfewAI Desktop Companion
 
 Sakura is a privacy-focused desktop AI companion powered by
 local LLMs through Ollama.
