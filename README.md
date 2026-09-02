@@ -1,11 +1,11 @@
-#  Sakura - Local Ai Companion for windows
+#  Sakura - Local Ai Companion
 
 Sakura is a privacy-focused desktop AI companion powered by
 local LLMs through Ollama. 
 
 It provides an always-available desktop assistant capable of
 chatting with the user, maintaining conversation history and
-controlling desktop applications.
+controlling desktop applications in windows OS.
 
 ## ✨ Features
 
