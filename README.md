@@ -7,14 +7,11 @@ It provides an always-available desktop assistant capable of
 chatting with the user, maintaining conversation history and
 controlling desktop applications in windows OS.
 
-It starts when the computer turns on.
-
 ## ✨ Features
 
 - 🤖 Local AI inference with Ollama
 - 💬 Streaming AI responses
 - 🧠 Persistent conversation history
-- 🖥 Open and close desktop applications
 - 🌸 Animated desktop companion interface
 - 📌 System tray integration
 - 🚀 Optional launch on startup
